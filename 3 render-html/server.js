@@ -17,4 +17,4 @@ function onRequest(request, response){
 
 }
 
-http.createServer(onRequest).listen(8080);    //creating a server and listening to the port 8000
+http.createServer(onRequest).listen(8000);    //creating a server and listening to the port 8000
