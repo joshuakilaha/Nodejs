@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+input {
+  display: block;
+}
+
+form button{
+  font: inherit;
+  margin: 10px;
+  border-radius: 0;
+  border: none;
+  box-shadow: 2px 2px 2px #ccc;
+  color : white;
+  background: #3498db;
+  cursor: pointer;
+}
+
+form button:hover{
+  background: #2980b9;
+
+}
