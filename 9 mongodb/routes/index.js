@@ -4,6 +4,8 @@ var mongo = require('mongodb').MongoClient;
 var objectId = require('mongodb').ObjectID;
 var assert = require('assert');
 
+
+
 var url = 'mongodb://localhost:27017/test';
 
 /* GET home page. */
