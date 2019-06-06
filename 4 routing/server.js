@@ -1,6 +1,6 @@
-var http = require('http');
+let http = require('http');
 
-var app = require('./app');
+let app = require('./app');
 
 http.createServer(app.handleRequest).listen(8000);
 
